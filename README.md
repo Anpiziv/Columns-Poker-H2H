@@ -35,6 +35,11 @@ Or run on any connected Flutter device:
 ```bash
 flutter run
 ```
+You can create an apk and install on your android:
+
+```bash
+flutter build apk --release
+```
 
 ## Test
 
