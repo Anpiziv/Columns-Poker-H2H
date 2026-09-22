@@ -6,7 +6,7 @@ This repository contains a Flutter frontend for the local human-vs-bot Columns P
 
 Currently the gameplay is human vs bot. I plan in the future to support multiplayer mode.
 
-<img width="1440" height="3120" alt="image" src="https://github.com/user-attachments/assets/d6e8b09c-6dbd-4099-b2f0-d05bb7844b55" />
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/d6e8b09c-6dbd-4099-b2f0-d05bb7844b55" />
 
 ## Install
 
