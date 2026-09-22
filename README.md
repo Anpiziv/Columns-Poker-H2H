@@ -42,30 +42,6 @@ flutter run
 flutter test
 ```
 
-## GitHub upload notes
-
-Keep these in GitHub:
-
-- `lib/`
-- `test/`
-- `web/`
-- `assets/` when its artwork is licensed for redistribution
-- `android/` source and Gradle configuration when Android builds are supported
-- `pubspec.yaml`
-- `pubspec.lock`
-- `analysis_options.yaml`
-- `.gitignore`
-- `README.md`
-
-Do not upload generated or local-only files:
-
-- `build/`
-- `.dart_tool/`
-- `.idea/`
-- `*.iml`
-- `.pub-cache/`, `.pub/`, `coverage/`, and log files
-- `android/local.properties`, which contains machine-specific SDK paths
-
 ## Game flow
 
 - Each turn, a card is drawn from the deck.
@@ -74,5 +50,4 @@ Do not upload generated or local-only files:
 - The game builds five columns, then gives each player one optional final exchange card.
 - Final score is compared across the five columns.
 
-See the repository-level [player manual](../GAME_INSTRUCTIONS.md) for the
-complete rules and controls.
+For full instructions in [player manual](../GAME_INSTRUCTIONS.md)
