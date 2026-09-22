@@ -55,4 +55,4 @@ flutter test
 - The game builds five columns, then gives each player one optional final exchange card.
 - Final score is compared across the five columns.
 
-For full instructions in [player manual](../GAME_INSTRUCTIONS.md)
+For full instructions in [player manual](/GAME_INSTRUCTIONS.md)
