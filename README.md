@@ -1,10 +1,14 @@
-# Chinese Poker UI
+# Poker Columns
 
-This folder contains a Flutter frontend for the local human-vs-bot Chinese Poker game.
+A unique Poker game style which I play with my friends. After I didn't find a game-app of this version I decided to create one on my own.
+
+This repository contains a Flutter frontend for the local human-vs-bot Columns Poker game which we call "Chinese Poker", however Chinese Poker is a different Poker style.
+
+Currently the gameplay is human vs bot. I plan in the future to support multiplayer mode.
 
 ## Install
 
-1. Install the Flutter SDK from https://docs.flutter.dev/get-started/install.
+1. Install the Flutter SDK from https://docs.flutter.dev/get-started/install. (Windows or Linux)
 2. Add Flutter to your system `PATH`.
 3. Check your setup:
 
@@ -37,14 +41,6 @@ flutter run
 ```bash
 flutter test
 ```
-
-## Build for web
-
-```bash
-flutter build web
-```
-
-The generated output is written to `build/web/`. This folder should not be uploaded to GitHub unless you intentionally publish compiled artifacts.
 
 ## GitHub upload notes
 
